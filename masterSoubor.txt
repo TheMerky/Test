@@ -1,1 +1,5 @@
 toto je master soubor
+
+Pridani radku
+
+Toto je zmena na unstable branch
