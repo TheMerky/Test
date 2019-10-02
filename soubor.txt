@@ -1,2 +1,4 @@
 Test na nove vetvi 
 stable
+
+Nejake nove informace
