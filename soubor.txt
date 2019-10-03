@@ -1,4 +1,4 @@
-Pridal jsem nejaky text
+Toto je novy radek v stable
 Test na nove vetvi 
 stable
 
