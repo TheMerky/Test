@@ -1,3 +1,4 @@
+Edit
 Toto je novy radek v stable
 Test na nove vetvi 
 stable
