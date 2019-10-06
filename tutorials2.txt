@@ -1,5 +1,4 @@
-Upraven tutorials2.txt na unstable
-Upraven tutorials2.txt unstable
+Upraveno tutorials2.txt
 Test na unstable
 
 Test
